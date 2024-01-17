@@ -1,0 +1,9 @@
+name: AntiAfk
+version: 0.0.1
+main: Nay\Afk\Main
+api: 5.10.0
+src-namespace-prefix: Nay\Afk
+permissions:
+  afk.kick:
+    default: false
+    description: Permet de ne pas être kické pour inactivité
