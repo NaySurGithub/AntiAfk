@@ -1,0 +1,1 @@
+Le plugin AFK que vous recherchez est entièrement gratuit, développé par Nay, et offre une configuration simple et complète. Vous pouvez ajuster facilement le temps avant le kick dans la configuration, offrant ainsi une flexibilité totale selon les besoins de votre serveur.
