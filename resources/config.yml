@@ -1,0 +1,9 @@
+config-version: 1
+afk-timeout: 10 #temps en secondes avant de kicker un joueur inactif
+jump: false #si le joueur saute sa compte comme si qu'il est pas afk true(oui)/false(non)
+sneak: false #si le joueur sneak sa compte comme si qu'il est pas afk true(oui)/false(non)
+kick-message: "Vous avez été kické pour inactivité." #message à afficher au joueur kické
+worlds: #liste des mondes à ignorer
+  - world1
+  - world2
+  - world3
